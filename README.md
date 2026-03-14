@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b132b,45:1c2541,100:3a506b&text=Aman%20A%20K&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b132b,45:1c2541,100:3a506b&text=Aman%20A%20K&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=UI%2FUX%20Designer%20%7C%20Graphic%20Designer%20%7C%20Frontend%20Focused&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=780&lines=Building+real-world+web+apps+and+data+pipelines;MERN+%7C+Python+%7C+Spark+%7C+Airflow;Open+to+collaborating+on+impactful+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=780&lines=Designing+clean+digital+experiences;UI%2FUX+%7C+Branding+%7C+Frontend;Adobe+Photoshop+%7C+Illustrator+%7C+Figma)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aman-a-k&style=flat-square&color=5BC0BE)](https://github.com/aman-a-k)
 [![Followers](https://img.shields.io/github/followers/aman-a-k?style=flat-square&color=5BC0BE&label=Followers)](https://github.com/aman-a-k?tab=followers)
@@ -11,10 +11,10 @@
 
 ## About Me
 
-- I am Aman A K, focused on full-stack products and data engineering systems.
-- I build practical applications with strong fundamentals in architecture and DX.
-- I enjoy open-source collaboration and hackathon-style rapid shipping.
-- Current focus: Spark pipelines, orchestration patterns, and production-ready web platforms.
+- I am Aman A K, primarily focused on UI/UX design, graphic design, and frontend experiences.
+- I enjoy turning rough ideas into polished interfaces with clear visual hierarchy and usability.
+- My workflow is centered around design systems, branding, layouts, and interactive web UI.
+- Current focus: crafting modern interfaces in Figma and bringing them to life on the frontend.
 
 ## Connect
 
@@ -26,22 +26,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,docker,git,postman,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,git,vscode&perline=5" />
 
 </div>
 
 <div align="center">
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-0F172A?style=for-the-badge&logoColor=white)
 
 </div>
 
 ## Featured Projects
 
-- [Data-Engineering-Pipeline-Protothon-26](https://github.com/aman-a-k/Data-Engineering-Pipeline-Protothon-26): End-to-end batch and event-driven pipeline with Spark and Airflow.
-- [HOSTEL-MANAGEMENT---SKILL-LAB](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB): Role-based hostel complaint management system.
-- [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM): Internship tracking dashboard and workflow support.
+- [HOSTEL-MANAGEMENT---SKILL-LAB](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB): Frontend-led product experience for hostel complaint management.
+- [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM): Dashboard-oriented UI for organizing internship workflows.
+- [cakewebsite](https://github.com/aman-a-k/cakewebsite): Visual landing page work focused on layout, color, and presentation.
 
 ## GitHub Stats
 
