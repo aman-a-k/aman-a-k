@@ -1,42 +1,81 @@
-﻿### About Me
+﻿<div align="center">
 
-- Hi there, I am Aman A K.
-- I am currently working on data engineering pipelines and full-stack applications.
-- I am looking to collaborate on open-source web and data projects.
-- I am looking for help with cloud-native data engineering and distributed systems.
-- I am currently learning advanced Spark and Airflow patterns.
-- Ask me about MERN stack, Python, and building production-ready projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b132b,45:1c2541,100:3a506b&text=Aman%20A%20K&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Full-Stack%20Developer%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
 
-### Socials
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=780&lines=Building+real-world+web+apps+and+data+pipelines;MERN+%7C+Python+%7C+Spark+%7C+Airflow;Open+to+collaborating+on+impactful+projects)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aman-a-k&style=flat-square&color=5BC0BE)](https://github.com/aman-a-k)
+[![Followers](https://img.shields.io/github/followers/aman-a-k?style=flat-square&color=5BC0BE&label=Followers)](https://github.com/aman-a-k?tab=followers)
+
+</div>
+
+## About Me
+
+- I am Aman A K, focused on full-stack products and data engineering systems.
+- I build practical applications with strong fundamentals in architecture and DX.
+- I enjoy open-source collaboration and hackathon-style rapid shipping.
+- Current focus: Spark pipelines, orchestration patterns, and production-ready web platforms.
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-a-k)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.kekkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-a-k)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-a-k)
 
-### Tech Stack
+## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
-### GitHub Stats
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,docker,git,postman,linux,vscode&perline=6" />
 
-![Aman GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-a-k&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-a-k&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aman-a-k&theme=tokyonight&hide_border=true)
+<div align="center">
 
-### Activity Graph
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-[![Aman activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-a-k&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
-<!-- profile-refresh: 2026-03-15 -->
+## Featured Projects
+
+- [Data-Engineering-Pipeline-Protothon-26](https://github.com/aman-a-k/Data-Engineering-Pipeline-Protothon-26): End-to-end batch and event-driven pipeline with Spark and Airflow.
+- [HOSTEL-MANAGEMENT---SKILL-LAB](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB): Role-based hostel complaint management system.
+- [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM): Internship tracking dashboard and workflow support.
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aman-a-k&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-a-k&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aman-a-k&theme=tokyonight&hide_border=true&background=FFFFFF00)
+
+</div>
+
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-a-k&theme=tokyo-night&hide_border=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
+	<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0b132b,45:1c2541,100:3a506b" width="100%" />
+
+</div>
