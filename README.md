@@ -53,11 +53,11 @@ goal: design interfaces people remember
 </tr>
 </table>
 
-## Tech Stack
+## Design Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,ts,react,tailwind,git,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3" />
 
 </div>
 
@@ -66,6 +66,22 @@ goal: design interfaces people remember
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-111827?style=for-the-badge&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-1F2937?style=for-the-badge&logoColor=white)
+![Visual Design](https://img.shields.io/badge/Visual%20Design-0F172A?style=for-the-badge&logoColor=white)
+
+</div>
+
+## Frontend Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,vscode&perline=4" />
+
+</div>
+
+<div align="center">
+
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-0F172A?style=for-the-badge&logoColor=white)
 ![Frontend UI](https://img.shields.io/badge/Frontend%20UI-1A1F71?style=for-the-badge&logoColor=white)
 
