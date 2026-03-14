@@ -1,11 +1,20 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,35:16213e,70:1a1f71,100:5bc0be&text=Aman%20A%20K&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=UI%2FUX%20Enthusiast%20%7C%20Graphic%20Designer%20%7C%20Frontend%20Craft&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,35:16213e,70:1a1f71,100:5bc0be&text=Aman%20A%20K&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=UI%2FUX%20Enthusiast%20%7C%20Visual%20Designer%20%7C%20Frontend%20Craft&descAlignY=58&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=820&lines=Designing+interfaces+that+feel+clear%2C+modern%2C+and+memorable;UI%2FUX+Design+%7C+Visual+Design+%7C+Frontend+Execution;Adobe+Photoshop+%7C+Adobe+Illustrator+%7C+Figma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=860&lines=Designing+interfaces+that+feel+clear%2C+modern%2C+and+alive;UI%2FUX+Design+%7C+Brand+Visuals+%7C+Frontend+Execution;Figma+%7C+Adobe+Photoshop+%7C+Adobe+Illustrator)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aman-a-k&style=flat-square&color=5BC0BE)](https://github.com/aman-a-k)
 [![Followers](https://img.shields.io/github/followers/aman-a-k?style=flat-square&color=5BC0BE&label=Followers)](https://github.com/aman-a-k?tab=followers)
+
+</div>
+
+<div align="center">
+
+![Product UI](https://img.shields.io/badge/Product%20UI-111827?style=for-the-badge&logoColor=white)
+![Visual Systems](https://img.shields.io/badge/Visual%20Systems-1F2937?style=for-the-badge&logoColor=white)
+![Interaction Thinking](https://img.shields.io/badge/Interaction%20Thinking-0F172A?style=for-the-badge&logoColor=white)
+![Frontend Craft](https://img.shields.io/badge/Frontend%20Craft-1A1F71?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -16,9 +25,9 @@
 ## About Me
 
 - I am Aman A K, primarily focused on UI/UX design, graphic design, and frontend experiences.
-- I enjoy turning rough ideas into polished screens with clear hierarchy, motion, and usability.
-- My workflow revolves around visual storytelling, interface systems, branding, and frontend implementation.
-- Current focus: designing modern product experiences in Figma and translating them into sharp web interfaces.
+- I enjoy turning rough ideas into polished screens with strong hierarchy, clarity, and visual rhythm.
+- My workflow revolves around visual storytelling, interface systems, branding, and thoughtful frontend execution.
+- Current focus: designing modern product experiences in Figma and translating them into sharp, engaging interfaces.
 
 ## Design Mindset
 
@@ -33,14 +42,14 @@
 </td>
 <td width="42%" valign="top">
 
-## Quick Snapshot
+## Profile Snapshot
 
 ```yaml
 focus: UI/UX + Visual Design
 secondary: Frontend Development
 tools: Figma, Photoshop, Illustrator
 style: modern, bold, clean
-goal: design interfaces people remember
+goal: build interfaces people remember
 ```
 
 ## Connect
@@ -52,6 +61,18 @@ goal: design interfaces people remember
 </td>
 </tr>
 </table>
+
+## Design Process
+
+<div align="center">
+
+![Research](https://img.shields.io/badge/01%20Research-111827?style=for-the-badge&logoColor=white)
+![Wireframe](https://img.shields.io/badge/02%20Wireframe-1F2937?style=for-the-badge&logoColor=white)
+![Visual Design](https://img.shields.io/badge/03%20Visual%20Design-1A1F71?style=for-the-badge&logoColor=white)
+![Prototype](https://img.shields.io/badge/04%20Prototype-0F172A?style=for-the-badge&logoColor=white)
+![Frontend Build](https://img.shields.io/badge/05%20Frontend%20Build-5BC0BE?style=for-the-badge&logoColor=0b132b)
+
+</div>
 
 ## Design Tools
 
@@ -87,15 +108,15 @@ goal: design interfaces people remember
 
 </div>
 
-## Selected Work
+## Selected Interfaces
 
-| Project | Design Angle |
-| --- | --- |
-| [HOSTEL-MANAGEMENT---SKILL-LAB](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB) | Dashboard and workflow-oriented product UI for a real-use hostel system |
-| [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM) | Structured interface design for tracking applications and status visually |
-| [cakewebsite](https://github.com/aman-a-k/cakewebsite) | Presentation-first landing page exploring color, composition, and visual appeal |
+| Project | Focus | Visual Angle |
+| --- | --- | --- |
+| [HOSTEL-MANAGEMENT---SKILL-LAB](https://github.com/aman-a-k/HOSTEL-MANAGEMENT---SKILL-LAB) | Product dashboard | Workflow-oriented UI with clear information hierarchy |
+| [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM) | Tracking experience | Structured status-based interface with dashboard thinking |
+| [cakewebsite](https://github.com/aman-a-k/cakewebsite) | Landing page design | Presentation-first layout with stronger color and visual appeal |
 
-## GitHub Stats
+## GitHub Presence
 
 <div align="center">
 
