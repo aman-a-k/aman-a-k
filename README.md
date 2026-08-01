@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,35:16213e,70:1a1f71,100:5bc0be&text=Aman%20A%20K&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=UI%2FUX%20Enthusiast%20%7C%20Visual%20Designer%20%7C%20Frontend%20Craft&descAlignY=58&descSize=17" width="100%" />
 
@@ -140,9 +140,9 @@ goal: build interfaces people remember
 <div align="center">
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
-	<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aman-a-k/aman-a-k/main/dist/github-snake.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake.svg" />
+	<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake.svg" />
 </picture>
 
 </div>
