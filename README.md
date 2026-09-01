@@ -135,17 +135,7 @@ goal: build interfaces people remember
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-a-k&theme=tokyo-night&hide_border=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Contribution Snake
 
-<div align="center">
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake.svg" />
-	<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aman-a-k/aman-a-k/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <div align="center">
 
