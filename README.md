@@ -27,6 +27,7 @@
 - I am Aman A K, primarily focused on UI/UX design, graphic design, and frontend experiences.
 - I enjoy turning rough ideas into polished screens with strong hierarchy, clarity, and visual rhythm.
 - My workflow revolves around visual storytelling, interface systems, branding, and thoughtful frontend execution.
+- I love owning a project end-to-end — not the deep development work, but the discovery: finding the idea, shaping the direction, and planning how it should come together.
 - Current focus: designing modern product experiences in Figma and translating them into sharp, engaging interfaces.
 
 ## Design Mindset
@@ -117,13 +118,6 @@ goal: build interfaces people remember
 | [cakewebsite](https://github.com/aman-a-k/cakewebsite) | Landing page design | Presentation-first layout with stronger color and visual appeal |
 
 ## GitHub Presence
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aman-a-k&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-a-k&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
-
-</div>
 
 <div align="center">
 
