@@ -117,18 +117,6 @@ goal: build interfaces people remember
 | [INTERNSHIP-TRACKER--SKILL-SANGAM](https://github.com/aman-a-k/INTERNSHIP-TRACKER--SKILL-SANGAM) | Tracking experience | Structured status-based interface with dashboard thinking |
 | [cakewebsite](https://github.com/aman-a-k/cakewebsite) | Landing page design | Presentation-first layout with stronger color and visual appeal |
 
-## GitHub Presence
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aman-a-k&theme=tokyonight&hide_border=true&background=FFFFFF00)
-
-</div>
-
-
-
-
-
 <div align="center">
 
 <sub>Design-first. Visual. Clean. Frontend-aware.</sub>
