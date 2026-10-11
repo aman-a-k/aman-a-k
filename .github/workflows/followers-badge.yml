@@ -1,0 +1,30 @@
+name: Update followers badge
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch follower count
+        id: count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo "followers=$(gh api users/${{ github.repository_owner }} --jq .followers)" >> "$GITHUB_OUTPUT"
+      - name: Render badge
+        run: ./scripts/followers-badge.sh "${{ steps.count.outputs.followers }}"
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/followers.svg; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/followers.svg
+          git commit -m "Update followers badge"
+          git push

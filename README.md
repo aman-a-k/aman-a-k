@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5BC0BE&center=true&vCenter=true&width=860&lines=Designing+interfaces+that+feel+clear%2C+modern%2C+and+alive;UI%2FUX+Design+%7C+Brand+Visuals+%7C+Frontend+Execution;Figma+%7C+Adobe+Photoshop+%7C+Adobe+Illustrator)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aman-a-k&style=flat-square&color=5BC0BE)](https://github.com/aman-a-k)
-[![Followers](https://img.shields.io/github/followers/aman-a-k?style=flat-square&color=5BC0BE&label=Followers)](https://github.com/aman-a-k?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=aman-a-k&style=flat-square&color=5BC0BE&label=Profile%20views)](https://github.com/aman-a-k)
+[![Followers](assets/followers.svg)](https://github.com/aman-a-k?tab=followers)
 
 </div>
 
